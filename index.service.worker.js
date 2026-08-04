@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1785823074|7755639';
+const CACHE_VERSION = '1785824512|8501479';
 /** @type {string} */
 const CACHE_PREFIX = 'Chessborn-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
